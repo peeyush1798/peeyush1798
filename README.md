@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#📫 How to reach me: ...[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/peeyush-sharma-60b20a138/)
+#📫 My Social Profiles: ...[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/peeyush-sharma-60b20a138/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=0D76A8)](https://leetcode.com/imps17/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/peeyush1798/)
+[![medium](https://img.shields.io/badge/medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://medium.com/@sh.peeyush1/)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/23212584/peeyush-sharma/)
 
 
