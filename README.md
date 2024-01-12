@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 💬 Write me at:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)]([sh.peeyush1@gmail.com](mailto:sh.peeyush1@gmail.com))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=0D76A8)](https://mail.google.com/mail/u/2/?ogbl#inbox)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/peeyush-sharma-60b20a138/)
 
 📫 Social Profiles:
