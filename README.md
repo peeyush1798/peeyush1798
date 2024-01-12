@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #📫 How to reach me: ...[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/peeyush-sharma-60b20a138/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://github.com/peeyush1798/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/peeyush1798/)
 
 
