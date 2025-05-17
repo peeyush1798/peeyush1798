@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 
 ## Hobbies and Interests
 
-- 🌱 Puzzle Solving (Sudoku, Crosswords).
-- 🌱 Reading International Relations, Economics, and Geopolitics.
-- 🌱 Backpacking Adventures and Endurance Sports.
+- 🌱 Financial Analysis and Research.
+- 🌱 Equity Capital Markets.
+- 🌱 Chart Analysis and Forecasting.
+- 🌱 Portfolio Management and Risk Analysis.
+- 🌱 Reading International Relations, Macroeconomics, AMC Reports, and Geopolitics.
+- 🌱 Traveling, Exploring, Backpacking Adventures, and Endurance Sports.
 - 🌱 Volunteering and Event Management.
 
 💬 Write me at:
